@@ -47,7 +47,7 @@ class PacmanPanel extends JPanel implements KeyListener
 {
   BufferedImage img;
   BufferedImage[][] subImages;
-  final static String imgPath = "Pacman.png";
+  final static String imgPath = "PacmanSprites.png";
   final static int ROWS = 4;
   final static int COLS = 3;
   final static int WIDTH = 50;
