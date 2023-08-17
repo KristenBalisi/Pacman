@@ -15,11 +15,6 @@ This is a node.js chat application powered by SockJS and Express that provides t
 - See other user's IPs (for admins)
 - Other awesome features yet to be implemented
 
-![User Features](http://i.imgur.com/WbF1fi2.png)
-
-![Admin Features](http://i.imgur.com/xQFaadt.png)
-
-
 #### There are 3 admin levels:
 - **Helper:** Can delete chat messages
 - **Moderator:** The above plus the ability to kick and ban users
