@@ -1,3 +1,3 @@
-# Pacman
+# pacman
 
 Java
