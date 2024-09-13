@@ -1,8 +1,3 @@
-/* Author: Kristen Balisi
- * Date: February 13, 2023
- * Program: Pacman
- */
-
 import javax.swing.JFrame;
 import javax.swing.ImageIcon;
 import javax.swing.JPanel;
